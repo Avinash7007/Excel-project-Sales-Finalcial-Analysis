@@ -1,6 +1,5 @@
 # Overview
-   Atliq Hardware, a global supplier of products such as PCs, peripherals, and network devices, assigned me the responsibility of generating sales and financial reports to 
-  assess the company's performance in the years 2019, 2020, and 2021. The following are the key findings:
+Atliq Hardware, a global supplier of products such as PCs, peripherals, and network devices, assigned me the responsibility of generating sales and financial reports to assess the company's performance in the years 2019, 2020, and 2021. The following are the key findings:
 
 # Sales Analysis
 ◆ Comprehensive Analysis: Conducting a thorough examination of net sales data, exploring dimensions such as year, country, product, division, and more.
@@ -12,7 +11,6 @@
  
  
 # Finance Analysis
-
 ◆ Metric Development: Created and implemented vital financial metrics, including Net Sales, COGS, Gross Margin, and GM %, to facilitate the creation of the P&L statement.
 
 ◆ Decision-Making Impact: These metrics play a crucial role in producing valuable insights, enabling informed and data-driven decision-making.
@@ -33,3 +31,9 @@ Soft Skills ✔️ Refined understanding of Sales & Finance Reports. ✔️ Desi
 • DAX Measures for Calculated Columns
 
 • Conditional Formatting to highlight pertinent data points for stakeholders
+# Dashboard
+[Customer_Performance_report.pdf](https://github.com/user-attachments/files/20854519/Customer_Performance_report.pdf)
+[Market Performance VS Target.pdf](https://github.com/user-attachments/files/20854520/Market.Performance.VS.Target.pdf)
+[P & L Years.pdf](https://github.com/user-attachments/files/20854515/P.L.Years.pdf)
+[P & L Months.pdf](https://github.com/user-attachments/files/20854516/P.L.Months.pdf)
+
