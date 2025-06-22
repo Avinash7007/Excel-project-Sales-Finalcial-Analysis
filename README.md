@@ -31,7 +31,15 @@ Soft Skills ✔️ Refined understanding of Sales & Finance Reports. ✔️ Desi
 • DAX Measures for Calculated Columns
 
 • Conditional Formatting to highlight pertinent data points for stakeholders
-# Dashboard
+# Data model :
+
+![Screenshot 2025-06-23 014531](https://github.com/user-attachments/assets/18ad041e-eb05-40db-ad23-578aa8731c61)
+
+# Dashboard:
+
+![Screenshot 2025-06-23 014144](https://github.com/user-attachments/assets/a8431a0c-0b13-4185-b5b9-8d9c0e2b3eca)
+![Screenshot 2025-06-23 013900](https://github.com/user-attachments/assets/7fad7713-77ef-4566-9770-82834a9be79c)
+
 [Customer_Performance_report.pdf](https://github.com/user-attachments/files/20854519/Customer_Performance_report.pdf)
 [Market Performance VS Target.pdf](https://github.com/user-attachments/files/20854520/Market.Performance.VS.Target.pdf)
 [P & L Years.pdf](https://github.com/user-attachments/files/20854515/P.L.Years.pdf)
